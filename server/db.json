@@ -1,0 +1,109 @@
+{
+  "books": [
+    {
+      "title": "Dilan: Dia ",
+      "author": "Pidi Baiq",
+      "year": "2014",
+      "quantity": "2",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "title": "Ayat-Ayat Cinta",
+      "author": "Habiburrahman El Shirazy",
+      "year": 2004,
+      "quantity": 7
+    },
+    {
+      "id": 5,
+      "title": "Bumi Manusia",
+      "author": "Pramoedya Ananta Toer",
+      "year": 1980,
+      "quantity": 4
+    },
+    {
+      "id": 6,
+      "title": "Laut Bercermin",
+      "author": "Remy Sylado",
+      "year": 1994,
+      "quantity": 1
+    },
+    {
+      "id": 7,
+      "title": "Sang Pemimpi",
+      "author": "Andrea Hirata",
+      "year": 2006,
+      "quantity": 6
+    },
+    {
+      "id": 8,
+      "title": "Pulang",
+      "author": "Tere Liye",
+      "year": 2016,
+      "quantity": 9
+    },
+    {
+      "id": 9,
+      "title": "Perahu Kertas",
+      "author": "Dee Lestari",
+      "year": 2009,
+      "quantity": 2
+    },
+    {
+      "id": 10,
+      "title": "Sepotong Hati yang Baru",
+      "author": "Tere Liye",
+      "year": 2010,
+      "quantity": 3
+    },
+    {
+      "title": "buku",
+      "author": "author",
+      "year": "2001",
+      "quantity": "100",
+      "id": 11
+    },
+    {
+      "title": "buku",
+      "author": "saya",
+      "year": "2000",
+      "quantity": "2",
+      "id": 12
+    },
+    {
+      "title": "dwd",
+      "author": "d",
+      "year": "2",
+      "quantity": "2",
+      "id": 13
+    },
+    {
+      "title": "d2",
+      "author": "dwad",
+      "year": "11",
+      "quantity": "2",
+      "id": 14
+    },
+    {
+      "title": "example",
+      "author": "author",
+      "year": "2001",
+      "quantity": "120",
+      "id": 15
+    },
+    {
+      "title": "dwad",
+      "author": "dwd",
+      "year": "1",
+      "quantity": "1",
+      "id": 16
+    },
+    {
+      "title": "21e",
+      "author": "awd",
+      "year": "21",
+      "quantity": "2",
+      "id": 17
+    }
+  ]
+}
