@@ -168,10 +168,9 @@ async function handleAddForm(event) {
       quantity,
     };
 
-    // console.log("book", book);
     await addBook(book);
 
-    books.push(book);
+    // books.push(book);
 
     currentPage = "home";
 
